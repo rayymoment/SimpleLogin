@@ -1,5 +1,5 @@
-
 # © Rayyan Hodges, TAFE NSW, Gelos Enterprises 2022
+# rayyan.hodges@studytafensw.edu.au
 # This program is coded in Python and designed to provide a simple login system with the ability to append to accounts and a simple menu.
 
 
